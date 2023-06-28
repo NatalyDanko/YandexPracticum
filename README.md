@@ -1,2 +1,1 @@
-# YandexPracticum
-Student projects (Yandex Practicum DS)
+Данные проекты были выполнены в ходе обучения в Яндекс.Практикум, профессия "Специалист по Data Science".
